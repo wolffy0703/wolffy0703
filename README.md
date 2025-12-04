@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal Shelar
 
-<!--
-**wolffy0703/wolffy0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI Automation Engineer | Python Developer | Building AI agents, automation scripts, and workflow bots
 
-Here are some ideas to get you started:
+I specialize in building **automation systems, AI-powered agents, workflow bots, and intelligent tools** that solve real business problems.  
+I focus on **Python, APIs, AI models, automation scripts, and web integrations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript
+- **AI & Automation:** OpenAI, Llama, AI Agents, Web Automation
+- **Tools:** Git, Playwright, Selenium, FastAPI, Flask
+- **Workflows:** API Integration, Automation Scripts, Data Processing, Bots
+
+---
+
+## 📂 Featured Projects
+### 1️⃣ Email AI Automation Agent  
+Reads emails → categorizes → generates AI replies → creates summary  
+👉 *(repo will be added soon)*
+
+### 2️⃣ PDF Task Extractor Automation  
+Extracts tasks from PDFs → exports to JSON / Notion  
+👉 *(repo will be added soon)*
+
+### 3️⃣ AI Website Chatbot  
+Simple website chatbot with Python backend  
+👉 *(repo will be added soon)*
+
+---
+
+## 📫 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/vishalshelar-ai/
+
+Thanks for visiting! ⭐
