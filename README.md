@@ -31,6 +31,6 @@ Simple website chatbot with Python backend
 ---
 
 ## 📫 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/vishalshelar-ai/
+**LinkedIn:** (https://www.linkedin.com/in/vishalshelar0703)
 
 Thanks for visiting! ⭐
